@@ -1,7 +1,7 @@
 # Universal
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6 as a quick-starter for angular application that needs Server-side rendering.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2 as a quick-starter for angular application that needs Server-side rendering.
 
 ## Development server
 
